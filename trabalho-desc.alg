@@ -20,5 +20,4 @@ escreva("escreva seu nome:")
   fimse
   
 
-//coment
 Fimalgoritmo
