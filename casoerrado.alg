@@ -10,13 +10,13 @@ escreva("Insira a temperatura atual em graus: ")
 leia(t)
 escolha t
   caso (t <= 18) faca
-        escreva("O clima est· frio")
+        escreva("O clima est√° frio")
   caso (t >= 19) e (t <= 23) faca
-        escreva("O clima est· agrad·vel")
+        escreva("O clima est√° agrad√°vel")
   caso (t >= 24) e (t <= 35) faca
-        escreva("O clima est· quente")
+        escreva("O clima est√° quente")
   caso t > 35 faca
-        escreva("O clima est· muito quente")
+        escreva("O clima est√° muito quente")
 fimescolha
 
 Fimalgoritmo
