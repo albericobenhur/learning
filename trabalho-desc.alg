@@ -12,13 +12,13 @@ escreva("escreva seu nome:")
   se(horas > 50) entao
   excedidas <- horas -50
   
-       escreva ("Oi, ", c, " voce trabalhou  ", excedidas,  " horas extras, seu salario extra é R$ ", excedidas*20)
-       escreva (", e seu salario total é:", (excedidas*20)+((horas-excedidas)*10))
+       escreva ("Oi, ", c, " voce trabalhou  ", excedidas,  " horas extras, seu salario extra ï¿½ R$ ", excedidas*20)
+       escreva (", e seu salario total ï¿½:", (excedidas*20)+((horas-excedidas)*10))
   senao
-       escreva("Oi, ", c, " voce trabalhou  ", horas,  " horas, e seu salario é R$ ", horas*10)
-       escreva(" ", c, " você acaba de ser demitido.")
+       escreva("Oi, ", c, " voce trabalhou  ", horas,  " horas, e seu salario ï¿½ R$ ", horas*10)
+       escreva(" ", c, " vocï¿½ acaba de ser demitido.")
   fimse
   
 
-
+//coment
 Fimalgoritmo
